@@ -129,7 +129,7 @@ I'm a passionate **Full Stack Developer** who loves crafting digital experiences
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitgusain8671&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=mohitgusain8671&style=for-the-badge&color=blueviolet" alt="Profile Views"/> -->
   
   **"Code is like humor. When you have to explain it, it's bad." - Cory House**
 </div>
