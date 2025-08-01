@@ -102,6 +102,14 @@ I'm a passionate **Full Stack Developer** who loves crafting digital experiences
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitgusain8671&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
